@@ -27,14 +27,6 @@ Políticas mencionadas: `VLAN10-INTERNET`, `VLAN20-INTERNET`, `USUARIOS-WEB` y `
 
 ## Documentación
 
-Consulta [docs/DOCUMENTACION.md](docs/DOCUMENTACION.md) para la descripción del laboratorio, tabla IP, controles y registro de pruebas.
-
-## Evidencias y entregables
-
-- [images/README.md](images/README.md): lista de capturas que se deben agregar.
-- [configs/README.md](configs/README.md): espacio para respaldos y configuración saneada.
-- [video/README.md](video/README.md): espacio para el video de demostración.
-
 ## Estado de verificación
 
 La información de topología anterior proviene de los datos disponibles del laboratorio. Las pruebas de conectividad, NAT, acceso web, bloqueo TCP/3306 y resolución/uso de FQDN quedan **pendientes de evidencias**. Actualiza esta sección y la documentación después de verificar cada resultado.
