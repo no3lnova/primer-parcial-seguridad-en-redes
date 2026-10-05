@@ -81,7 +81,6 @@ No se infiere el dominio asociado a los objetos FQDN ni la configuración detall
 
 ## 7. Procedimiento y registro de pruebas
 
-Completa fecha, método y evidencia después de ejecutar cada prueba. En “Resultado observado”, escribe lo que realmente ocurrió y cualquier mensaje relevante. No marques una prueba como aprobada sin evidencia.
 
 | ID | Prueba | Resultado esperado a validar | Resultado observado | Evidencia |
 |---|---|---|---|---|
@@ -94,24 +93,3 @@ Completa fecha, método y evidencia después de ejecutar cada prueba. En “Resu
 | P-07 | Verificar objetos FQDN | Nombre y resolución corresponden a lo configurado | Pendiente | `images/` |
 | P-08 | Revisar registros y contadores | Evidencia del tráfico permitido/bloqueado | Pendiente | `images/` |
 
-**Fecha de ejecución:** pendiente.  
-**Entorno/cliente usado en las pruebas:** pendiente.  
-**Observaciones:** pendiente.
-
-## 8. Evidencias
-
-Guarda capturas numeradas en `images/` y usa los nombres sugeridos en [images/README.md](../images/README.md). Evita que se vean contraseñas, claves, tokens o datos personales ajenos al trabajo. Cada captura debe mostrar suficiente contexto para identificar equipo, regla o prueba.
-
-## 9. Configuración de respaldo
-
-Guarda en `configs/` únicamente archivos necesarios para reproducir o revisar el laboratorio. Revisa y elimina credenciales, claves privadas, tokens, contraseñas y otros secretos antes de publicar. La guía está en [configs/README.md](../configs/README.md).
-
-## 10. Video de demostración
-
-Añade el enlace o archivo final cuando esté disponible, con una breve descripción y fecha. Ver [video/README.md](../video/README.md).
-
-## 11. Resultados y conclusión
-
-**Resultados:** pendientes de ejecución y evidencia. Completar con el comportamiento observado para cada prueba de la tabla; distinguir claramente entre resultado esperado y resultado obtenido.
-
-**Conclusión:** completar después de revisar las pruebas. Explicar qué controles quedaron comprobados y qué ajustes fueron necesarios, usando únicamente resultados observados.
