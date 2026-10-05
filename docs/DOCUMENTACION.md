@@ -41,7 +41,6 @@ Se conoce un FortiGate-VM64-KVM en versión 7.0.9, identificado como **FGT-1**, 
                        10.229.3.194 10.229.3.195
 ```
 
-El diagrama es lógico y usa solo los datos conocidos. No especifica puertos físicos, subinterfaces, puertas de enlace ni extremos del enlace ISP porque esos valores no están confirmados en el contexto disponible.
 
 ## 4. Plan de direccionamiento conocido
 
@@ -77,7 +76,6 @@ Se proporcionaron los siguientes nombres y propósitos generales. Registra los p
 | `FQDN-ARCHIVE-UBUNTU` | Objeto de dirección de tipo FQDN | Nombre DNS asociado y resolución observada |
 | `FQDN-SECURITY-UBUNTU` | Objeto de dirección de tipo FQDN | Nombre DNS asociado y resolución observada |
 
-No se infiere el dominio asociado a los objetos FQDN ni la configuración detallada de las reglas. Añade esos datos tras verificarlos en FGT-1 y elimina cualquier secreto antes de guardar configuraciones en este repositorio.
 
 ## 7. Procedimiento y registro de pruebas
 
